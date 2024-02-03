@@ -10,11 +10,8 @@
 	<h4 align="center">  <a href="https://kallosp.github.io/">🚀 Visit My Website</a> </h4>
 </div>
 
-<br>
-
 <!--<h2 align="center"> 📊 GitHub Stats</h2>-->
 <div align="center" >
-	
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true)
  
