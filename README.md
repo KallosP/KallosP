@@ -29,7 +29,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
-## 🌐 Socials:
+<h2 align="center"> 🌐 Socials </h2>
 <div align="center">
 	    Contact:
 	  <br>
