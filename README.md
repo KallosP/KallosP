@@ -12,7 +12,7 @@
 </div>
 
 <div align="right">
-### 🔝 Top Contributed Repo
+	<h3>🔝 Top Contributed Repo</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>
 
