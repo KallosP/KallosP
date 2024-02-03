@@ -6,10 +6,12 @@
 </div>
 
 <!--<h2 align="center"> 📊 GitHub Stats</h2>-->
-<div align="center">
+<div align="left">
 	
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
+<div align="right">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>
