@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=KallosP&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
