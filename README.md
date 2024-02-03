@@ -8,7 +8,7 @@
 <div align="center">
 	 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
 </div>
-
+<br>
 <div align="center">
 	## [🚀 Visit My Website](https://kallosp.github.io/)
 </div>
