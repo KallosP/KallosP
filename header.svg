@@ -61,7 +61,7 @@
                 }
                 @keyframes glow {
                 40% {
-                    text-shadow: 0 0 8px #a109b3;
+                    text-shadow: 0 0 8px #30dfe9;
                 }
                 }
 			</style>
