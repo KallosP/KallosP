@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-	<h3 align="center"> 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology. </h3>
+	<h3 align="center">I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.</h3>
 </div>
 
 <div align="center">
