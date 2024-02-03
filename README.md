@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="header.svg" width="1200" height="200">
+		<img src="header.svg" width="1200" height="1">
 	<br>
 </div>
 
