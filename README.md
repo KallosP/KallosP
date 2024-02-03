@@ -7,6 +7,23 @@
 
 <p align="center">
 	I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
+	<br>
+	Portfolio Website : 
+	  <br />
+	  <a href="https://kallosp.github.io/" title="Projects"
+	    >Portfolio Website</a>
+	 <!-- <br />
+	   <a href="https://cristianherrera.dev/Cristian_Herrera's_Resume.pdf" title="Projects"
+	    >Resume</a>-->
+	  <br />
+	    Contact:
+	  <br>
+	  <a href="mailto: pkallos19@gmail.com">
+	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	  </a>
+	    <a href="https://www.linkedin.com/in/peter-kallos/">
+	      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	    </a>
 </p>
 	
 # 💻 Tech Stack:
