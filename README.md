@@ -5,16 +5,13 @@
 	<br>
 </div>
 <br>
-<p align="center">
-	👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
+<div align="center">
+	## 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
 	<br>
-	  <br />
-</p>
+</div>
 
 <div align="center">
-
 ## [🚀 Visit My Website](https://kallosp.github.io/)
-
 </div>
 
 <h2 align="center"> 💻 Tech Stack</h2>
