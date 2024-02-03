@@ -15,7 +15,7 @@
                 background: #333641;
                 background-size: 600% 400%;
                 border-radius: 10px;
-                color: white;
+                color: blue;
                 text-align: center;
                 }
               
