@@ -1,7 +1,7 @@
 <!--https://github.com/Akshay090/svg-banners/blob/master/SVG/luminance/luminance.svg?short_path=aab2322-->
 <div align="center">
 	<br>
-		<img src="header.svg" width="1200" height="100">
+		<img src="header.svg" width="1200" height="600">
 	<br>
 </div>
 
