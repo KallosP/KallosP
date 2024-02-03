@@ -20,7 +20,7 @@
                 }
               
                 .luminance {
-                background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #26947a, transparent, transparent);
+                background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #299C83, transparent, transparent);
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
@@ -56,12 +56,12 @@
                 }
                 @-webkit-keyframes glow {
                 40% {
-                    text-shadow: 0 0 8px #bedfd7;
+                    text-shadow: 0 0 8px #3FECC8;
                 }
                 }
                 @keyframes glow {
                 40% {
-                    text-shadow: 0 0 8px #bedfd7;
+                    text-shadow: 0 0 8px #3FECC8;
                 }
                 }
 			</style>
