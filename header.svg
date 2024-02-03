@@ -56,7 +56,7 @@
                 }
                 @-webkit-keyframes glow {
                 40% {
-                    text-shadow: 0 0 8px #a109b3;
+                    text-shadow: 0 0 50px #a109b3;
                 }
                 }
                 @keyframes glow {
