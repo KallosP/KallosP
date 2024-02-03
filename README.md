@@ -9,9 +9,9 @@
 	I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
 	<br>
 	  <br />
-	  <a href="https://kallosp.github.io/" title="Projects"
-	    >Portfolio Website</a>
 </p>
+
+<h2 align="center><a href="https://kallosp.github.io/" title="Projects">Portfolio Website</a></h2>
 
 <h2 align="center"> 💻 Tech Stack </h2>
 <div align="center">
