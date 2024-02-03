@@ -4,7 +4,6 @@
 		<img src="header.svg" width="800" height="100">
 	<br>
 </div>
-<br>
 <h3 align="center"> 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology. </h3>
 <div align="center">
 	<h2>
