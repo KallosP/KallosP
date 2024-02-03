@@ -5,10 +5,10 @@
 	<br>
 </div>
 <br>
-<h3 align="center"> 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology. </h2>
+<h3 align="center"> 👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology. </h3>
 <br>
 <div align="center">
-## [🚀 Visit My Website](https://kallosp.github.io/)
+[🚀 Visit My Website](https://kallosp.github.io/)
 </div>
 
 <h2 align="center"> 💻 Tech Stack</h2>
