@@ -14,6 +14,7 @@
 	 <!-- <br />
 	   <a href="https://cristianherrera.dev/Cristian_Herrera's_Resume.pdf" title="Projects"
 	    >Resume</a>-->
+		  <br />
 	  <br />
 	    Contact:
 	  <br>
