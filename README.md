@@ -27,13 +27,13 @@
 </p>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
-<p align="center">
+<div align="center">
 	
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
+</div>
 
 <p align="center">
 <hr />
