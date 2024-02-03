@@ -11,7 +11,11 @@
 	  <br />
 </p>
 
-<h2 align="center><a href="https://kallosp.github.io/" title="Projects">Portfolio Website</a></h2>
+<div align="center">
+
+## [Visit my Website](https://kallosp.github.io/)
+
+</div>
 
 <h2 align="center"> 💻 Tech Stack </h2>
 <div align="center">
