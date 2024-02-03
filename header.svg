@@ -17,7 +17,7 @@
                 border-radius: 10px;
                 color: white;
                 text-align: center;
-		border: 2px solid #FFF;
+		border: 1px solid #FFF;
                 }
               
                 .luminance {
