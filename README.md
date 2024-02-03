@@ -8,7 +8,6 @@
 <p align="center">
 	I'm Peter Kallos, an undergraduate computer science student with a passion for software and all things technology.
 	<br>
-	Portfolio Website : 
 	  <br />
 	  <a href="https://kallosp.github.io/" title="Projects"
 	    >Portfolio Website</a>
