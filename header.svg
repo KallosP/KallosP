@@ -20,7 +20,7 @@
                 }
               
                 .luminance {
-                background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #fff, transparent, transparent);
+                background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #0bb1eb, transparent, transparent);
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
