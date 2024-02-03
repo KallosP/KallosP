@@ -1,6 +1,6 @@
 <!-- https://codepen.io/onecastell/full/VwZWBvr -->
-<svg fill="none" viewBox="0 0 800 400" width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 400" width="1200" height="120" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="50%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
                 .container {
@@ -11,7 +11,7 @@
                 justify-content: center;
                 margin: 0;
                 width: 100%;
-                height: 200px;
+                height: 120px;
                 background: #333641;
                 background-size: 600% 200%;
                 border-radius: 10px;
