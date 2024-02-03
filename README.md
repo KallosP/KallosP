@@ -12,7 +12,7 @@
 
 
 <!--<h2 align="center"> 📊 GitHub Stats</h2>-->
-<div align="center">
+<div align="center" class="container">
 	
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 &nbsp;
