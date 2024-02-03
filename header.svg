@@ -40,7 +40,7 @@
                 }
                 @-webkit-keyframes reveal {
                 80% {
-                    letter-spacing: 16px;
+                    letter-spacing: 8px;
                 }
                 100% {
                     background-size: 300% 300%;
@@ -48,7 +48,7 @@
                 }
                 @keyframes reveal {
                 80% {
-                    letter-spacing: 16px;
+                    letter-spacing: 8px;
                 }
                 100% {
                     background-size: 300% 300%;
