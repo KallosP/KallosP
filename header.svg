@@ -48,7 +48,7 @@
                 }
                 @keyframes reveal {
                 80% {
-                    letter-spacing: 8px;
+                    letter-spacing: 16px;
                 }
                 100% {
                     background-size: 300% 300%;
