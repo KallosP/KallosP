@@ -28,9 +28,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
-<h2 align="center"> 🌐 Socials </h2>
+<h2 align="center"> 🌐 Contact </h2>
 <div align="center">
-	    Contact:
 	  <br>
 	  <a href="mailto: pkallos19@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
