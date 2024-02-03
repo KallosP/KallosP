@@ -38,7 +38,6 @@
                 -webkit-animation: reveal 3000ms ease-in-out forwards 200ms, glow 2500ms linear infinite 2000ms;
                         animation: reveal 3000ms ease-in-out forwards 200ms, glow 2500ms linear infinite 2000ms;
                 }
-		letter-spacing: 16px;
                 @-webkit-keyframes reveal {
                 80% {
                     letter-spacing: 16px;
@@ -68,7 +67,7 @@
 			</style>
 			<div class="container">
                 <div class="luminance">
-                    Welcome
+                    W e l c o m e
                 </div>
             </div>
         </div>
