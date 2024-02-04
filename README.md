@@ -14,7 +14,7 @@
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
 </a>
 <a href="https://github.com/KallosP/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=gotham&layout=donut" />
 </a>
 
 <!--<h2 align="center"> 📊 GitHub Stats</h2>-->
