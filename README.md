@@ -15,7 +15,7 @@
 	
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
