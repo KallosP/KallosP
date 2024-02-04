@@ -41,4 +41,4 @@
 	 <br>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KallosP&repo=github-readme-stats)](https://github.com/KallosP/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KallosP&repo=github-readme-stats)](https://github.com/AVC-CS-Committee/InteractiveCampusMap)
