@@ -10,14 +10,22 @@
 	<h4 align="center">  <a href="https://kallosp.github.io/">🚀 Visit My Website</a> </h4>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--<h2 align="center"> 📊 GitHub Stats</h2>-->
+<!--
 <div align="center" >
 	
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KallosP&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&layout=donut)](https://github.com/KallosP/github-readme-stats)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=KallosP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->-->
 
 </div>
 
