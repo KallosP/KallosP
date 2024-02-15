@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-	<h4 align="center">👨‍💻 I'm Peter Kallos, an undergraduate computer science student with a passion for software development.</h4>
+	<h4 align="center"> I'm Peter Kallos, an undergraduate computer science student with a passion for software development.</h4>
 	<h4 align="center">  <a href="https://kallosp.github.io/">🚀 Visit My Website</a> </h4>
 </div>
 
